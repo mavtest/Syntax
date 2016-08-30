@@ -38,8 +38,29 @@ fltnum = 5.0
 
 \end{lstlisting}
 
-\subsubsection{Tuple}
 \subsubsection{List}
+Lists are the most popular python data structure. They can store a collection of items with different types. We can define a list in many ways and for accessing its items we can use square brackets [] and also use slice operator [:] for accessing many items as below:
+\begin{lstlisting}[language = Python]
+"""
+Defining a list with different syntaxes
+"""
+varlst = [5, 9, "hello", 5.687, "MAS", 99]
+varlst2 = list()  # creates an empty list
+varlst3 = list((9, 5.68, 1, 66))
+
+
+# accessing list elements
+print varlst  		# prints all the list
+print varlst[0]  	# prints the first element at zero position
+print varlst[-1]  	# prints the last element
+print varlst[1:5]  	# prints all elements from first position to fifth
+					# but not including the fifth
+print varlst[2:]  	# prints all elements from second position to the end
+\end{lstlisting}
+
+\subsubsection{Tuple}
+Tuples are
+
 \subsubsection{Dictionary}
 \subsection{Comments}
 Comments in python:

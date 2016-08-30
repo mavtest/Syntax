@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.31)  29 AUG 2016 19:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.31)  30 AUG 2016 20:00
 entering extended mode
 **./python.tex
 (python.tex
@@ -78,23 +78,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
+Overfull \hbox (57.00407pt too wide) in paragraph at lines 54--55
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 55.
+
+Overfull \hbox (99.0045pt too wide) in paragraph at lines 56--57
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (69.00421pt too wide) in paragraph at lines 57--58
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (117.00468pt too wide) in paragraph at lines 58--59
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
- [2] [3]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+ [2] [3] [4]
 (python.aux) ) 
 Here is how much of TeX's memory you used:
- 1648 strings out of 493634
- 22792 string characters out of 3141326
- 101461 words of memory out of 3000000
- 5083 multiletter control sequences out of 15000+200000
+ 1653 strings out of 493634
+ 22855 string characters out of 3141326
+ 112476 words of memory out of 3000000
+ 5088 multiletter control sequences out of 15000+200000
  8548 words of font info for 30 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 26i,6n,42p,221b,1391s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,42p,283b,1391s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
@@ -102,9 +124,9 @@ mbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
 ><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on python.pdf (3 pages, 91768 bytes).
+Output written on python.pdf (4 pages, 99798 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
